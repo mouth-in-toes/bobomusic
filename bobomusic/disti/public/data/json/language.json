@@ -1,0 +1,16 @@
+[
+    {"images":"/data/images/language/Chinese.png","dec":"华语"},
+    {"images":"/data/images/language/English.png","dec":"欧美"},
+    {"images":"/data/images/language/Japanese.png","dec":"日韩"},
+    {"images":"/data/images/language/rock.png","dec":"摇滚"},
+    {"images":"/data/images/language/ancient.png","dec":"古风"},
+    {"images":"/data/images/language/ballad.png","dec":"民谣"},
+    {"images":"/data/images/language/laofan.png","dec":"隔壁老樊"},
+    {"images":"/data/images/language/dengziqi.png","dec":"G.E.M.邓紫棋"},
+    {"images":"/data/images/language/xuezhiqian.png","dec":"薛之谦"},
+    {"images":"/data/images/language/poem.png","dec":"音阙诗听 | 音阙诗听 音阙诗听 "},
+    {"images":"/data/images/language/laofan.png","dec":"隔壁老樊"},
+    {"images":"/data/images/language/poem.png","dec":"音阙诗听"},
+    {"images":"/data/images/language/xuezhiqian.png","dec":"薛之谦"},
+    {"images":"/data/images/language/dengziqi.png","dec":"G.E.M.邓紫棋"}
+]

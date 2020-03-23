@@ -1,0 +1,14 @@
+{"_id":{"$oid":"5e7349d8fda42e6040eb8a16"},"images":"/data/images/language/Chinese.png","dec":"华语"}
+{"_id":{"$oid":"5e7349d8fda42e6040eb8a17"},"images":"/data/images/language/English.png","dec":"欧美"}
+{"_id":{"$oid":"5e7349d8fda42e6040eb8a18"},"images":"/data/images/language/Japanese.png","dec":"日韩"}
+{"_id":{"$oid":"5e7349d8fda42e6040eb8a19"},"images":"/data/images/language/rock.png","dec":"摇滚"}
+{"_id":{"$oid":"5e7349d8fda42e6040eb8a1a"},"images":"/data/images/language/ancient.png","dec":"古风"}
+{"_id":{"$oid":"5e7349d8fda42e6040eb8a1b"},"images":"/data/images/language/ballad.png","dec":"民谣"}
+{"_id":{"$oid":"5e7349d8fda42e6040eb8a1c"},"images":"/data/images/language/laofan.png","dec":"隔壁老樊"}
+{"_id":{"$oid":"5e7349d8fda42e6040eb8a1d"},"images":"/data/images/language/dengziqi.png","dec":"G.E.M.邓紫棋"}
+{"_id":{"$oid":"5e7349d8fda42e6040eb8a1e"},"images":"/data/images/language/xuezhiqian.png","dec":"薛之谦"}
+{"_id":{"$oid":"5e7349d8fda42e6040eb8a1f"},"images":"/data/images/language/poem.png","dec":"音阙诗听 | 音阙诗听 音阙诗听 "}
+{"_id":{"$oid":"5e7349d8fda42e6040eb8a20"},"images":"/data/images/language/laofan.png","dec":"隔壁老樊"}
+{"_id":{"$oid":"5e7349d8fda42e6040eb8a21"},"images":"/data/images/language/poem.png","dec":"音阙诗听"}
+{"_id":{"$oid":"5e7349d8fda42e6040eb8a22"},"images":"/data/images/language/xuezhiqian.png","dec":"薛之谦"}
+{"_id":{"$oid":"5e7349d8fda42e6040eb8a23"},"images":"/data/images/language/dengziqi.png","dec":"G.E.M.邓紫棋"}

@@ -1,0 +1,19 @@
+[
+    {"images":"/data/images/thame/internet.png","dec":"网络歌曲"},
+    {"images":"/data/images/thame/move.png","dec":"影视原声"},
+    {"images":"/data/images/thame/game.png","dec":"游戏"},
+    {"images":"/data/images/thame/Chinese.png","dec":"华语"},
+    {"images":"/data/images/thame/English.png","dec":"欧美"},
+    {"images":"/data/images/thame/Japanese.png","dec":"日韩"},
+    {"images":"/data/images/thame/rock.png","dec":"摇滚"},
+    {"images":"/data/images/thame/ancient.png","dec":"古风"},
+    {"images":"/data/images/thame/ballad.png","dec":"民谣"},
+    {"images":"/data/images/thame/laofan.png","dec":"隔壁老樊"},
+    {"images":"/data/images/thame/dengziqi.png","dec":"G.E.M.邓紫棋"},
+    {"images":"/data/images/thame/xuezhiqian.png","dec":"薛之谦"},
+    {"images":"/data/images/thame/poem.png","dec":"音阙诗听 | 音阙诗听 音阙诗听 "},
+    {"images":"/data/images/thame/laofan.png","dec":"隔壁老樊"},
+    {"images":"/data/images/thame/poem.png","dec":"音阙诗听"},
+    {"images":"/data/images/thame/xuezhiqian.png","dec":"薛之谦"},
+    {"images":"/data/images/thame/dengziqi.png","dec":"G.E.M.邓紫棋"}
+]

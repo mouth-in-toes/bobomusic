@@ -1,1 +1,2 @@
-测试的readme
+client：bobomusic
+server：node
